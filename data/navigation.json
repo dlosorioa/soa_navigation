@@ -1,0 +1,599 @@
+{
+  "nodes": [
+    {
+      "name": "Research",
+      "img": "img/architecture.png",
+      "link": "https://arch.gatech.edu/research",
+      "expand": 1,
+      "root": 1,
+      "size": 40000,
+      "children": [
+        {
+          "name": "Architecture, Culture & Behavior"
+        },
+        {
+          "name": "Design Technology"
+        },
+        {
+          "name": "History, Theory, Criticism"
+        },
+        {
+          "name": "Urbanism"
+        }
+      ]
+    },
+    {
+      "name": "Architecture, Culture & Behavior",
+      "link": "https://arch.gatech.edu/architecture-culture-behavior",
+      "img": "img/disciplines.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Evidence Based Design | Design & Health"
+        },
+        {
+          "name": "Space Syntax"
+        },
+        {
+          "name": "SimTiGrate Lab"
+        },
+        {
+          "name": "Digital Building Lab"
+        },
+        {
+          "name": "IPaT | Institute of People and Technology"
+        }
+      ]
+    },
+    {
+      "name": "Evidence Based Design | Design & Health",
+      "link": "https://arch.gatech.edu/evidence-based-design-design-health",
+      "img": "img/labs.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Craig Zimring"
+        },
+        {
+          "name": "Lisa Lim"
+        },
+        {
+          "name": "SimTiGrate Lab"
+        }
+      ]
+    },
+    {
+      "name": "Craig Zimring",
+      "link": "https://arch.gatech.edu/people/craig-zimring",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Lisa Lim",
+      "link": "https://arch.gatech.edu/people/lisa-lim",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Space Syntax",
+      "link": "https://arch.gatech.edu/space-syntax",
+      "img": "img/labs.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "John Peponis"
+        },
+        {
+          "name": "Sonit Bafna"
+        }
+      ]
+    },
+    {
+      "name": "John Peponis",
+      "link": "https://arch.gatech.edu/people/john-peponis",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Sonit Bafna",
+      "link": "https://arch.gatech.edu/people/sonit-bafna",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Design Technology",
+      "link": "https://arch.gatech.edu/design-technology",
+      "img": "img/disciplines.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Computational Design"
+        },
+        {
+          "name": "Building Information, Data and Interoperability"
+        },
+        {
+          "name": "Design Computation"
+        },
+        {
+          "name": "High Performance Building"
+        },
+        {
+          "name": "Materials and Assemblies"
+        },
+        {
+          "name": "Net Zero Housing"
+        },
+        {
+          "name": "Digital Fabrication Lab"
+        },
+        {
+          "name": "Digital Building Lab"
+        },
+        {
+          "name": "Shape Computation Lab"
+        },
+        {
+          "name": "SimTiGrate Lab"
+        },
+        {
+          "name": "IPaT | Institute of People and Technology"
+        },
+        {
+          "name": "Institute for Robotics and Intelligent Machines"
+        }
+      ]
+    },
+    {
+      "name": "Computational Design",
+      "link": "https://arch.gatech.edu/computational-design",
+      "img": "img/labs.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Tristan Al-Haddad"
+        },
+        {
+          "name": "Daniel Baerlecken"
+        }
+      ]
+    },
+    {
+      "name": "Tristan Al-Haddad",
+      "link": "https://arch.gatech.edu/people/tristan-al-haddad",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Daniel Baerlecken",
+      "link": "https://arch.gatech.edu/people/daniel-baerlecken",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Building Information, Data and Interoperability",
+      "link": "https://arch.gatech.edu/building-information-data-and-interoperability",
+      "img": "img/labs.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Chuck Eastman"
+        },
+        {
+          "name": "Dennis Shelden"
+        }
+      ]
+    },
+    {
+      "name": "Chuck Eastman",
+      "link": "https://arch.gatech.edu/people/charles-eastman",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Dennis Shelden",
+      "link": "https://arch.gatech.edu/people/dennis-r-shelden",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Design Computation",
+      "link": "https://arch.gatech.edu/design-computation",
+      "img": "img/labs.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Athanassios Economou"
+        },
+        {
+          "name": "Dennis Shelden"
+        },
+        {
+          "name": "Chuck Eastman"
+        }
+      ]
+    },
+    {
+      "name": "Athanassios Economou",
+      "link": "https://arch.gatech.edu/people/athanassios-economou-0",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Dennis Shelden",
+      "link": "https://arch.gatech.edu/people/dennis-r-shelden",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Chuck Eastman",
+      "link": "https://arch.gatech.edu/people/charles-eastman",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "High Performance Building",
+      "link": "https://arch.gatech.edu/high-performance-building",
+      "img": "img/labs.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Godfried Augenbroe"
+        },
+        {
+          "name": "Jason Brown"
+        }
+      ]
+    },
+    {
+      "name": "Godfried Augenbroe",
+      "link": "https://arch.gatech.edu/people/godfried-l-augenbroe",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Jason Brown",
+      "link": "https://arch.gatech.edu/people/jason-brown",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Materials and Assemblies",
+      "link": "https://arch.gatech.edu/materials-and-assemblies",
+      "img": "img/labs.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Russell Gentry"
+        },
+        {
+          "name": "Daniel Baerlecken"
+        },
+        {
+          "name": "Tristan Al-Haddad"
+        }
+      ]
+    },
+    {
+      "name": "Russell Gentry",
+      "link": "https://arch.gatech.edu/people/russell-gentry",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Daniel Baerlecken",
+      "link": "https://arch.gatech.edu/people/daniel-baerlecken",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Tristan Al-Haddad",
+      "link": "https://arch.gatech.edu/people/tristan-al-haddad",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Net Zero Housing",
+      "link": "https://arch.gatech.edu/net-zero-housing",
+      "img": "img/labs.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Michael Gamble"
+        },
+        {
+          "name": "Jason Brown"
+        },
+        {
+          "name": "Godfried Augenbroe"
+        }
+      ]
+    },
+    {
+      "name": "Michael Gamble",
+      "link": "https://arch.gatech.edu/node/1388",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Jason Brown",
+      "link": "https://arch.gatech.edu/people/jason-brown",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Godfried Augenbroe",
+      "link": "https://arch.gatech.edu/people/godfried-l-augenbroe",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "History, Theory, Criticism",
+      "link": "https://arch.gatech.edu/history-theory-criticism-0",
+      "img": "img/disciplines.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Aesthetic Theory"
+        },
+        {
+          "name": "History of Architectural Practice"
+        },
+        {
+          "name": "Stadia"
+        }
+      ]
+    },
+    {
+      "name": "Aesthetic Theory",
+      "link": "https://arch.gatech.edu/aesthetic-theory",
+      "img": "img/labs.png",
+      "size": 40000
+    },
+    {
+      "name": "History of Architectural Practice",
+      "link": "https://arch.gatech.edu/history-architectural-practice",
+      "img": "img/labs.png",
+      "size": 40000
+    },
+    {
+      "name": "Stadia",
+      "link": "https://arch.gatech.edu/stadia",
+      "img": "img/labs.png",
+      "size": 40000
+    },
+    {
+      "name": "Urbanism",
+      "link": "https://arch.gatech.edu/urbanism",
+      "img": "img/disciplines.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Ecological Infrastructure"
+        },
+        {
+          "name": "Spatial Morphology"
+        },
+        {
+          "name": "Retrofitting Suburbia"
+        },
+        {
+          "name": "Smart Cities"
+        },
+        {
+          "name": "Eco Urban Lab"
+        },
+        {
+          "name": "IPaT | Institute of People and Technology"
+        }
+      ]
+    },
+    {
+      "name": "Ecological Infrastructure",
+      "link": "https://arch.gatech.edu/ecological-infrastructure",
+      "img": "img/labs.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Richard Dagenhart"
+        },
+        {
+          "name": "Perry Yang"
+        }
+      ]
+    },
+    {
+      "name": "Richard Dagenhart",
+      "link": "https://arch.gatech.edu/people/richard-dagenhart",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Perry Yang",
+      "link": "https://arch.gatech.edu/people/perry-yang",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Spatial Morphology",
+      "link": "https://arch.gatech.edu/spatial-morphology",
+      "img": "img/labs.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "John Peponis"
+        },
+        {
+          "name": "Sonit Bafna"
+        }
+      ]
+    },
+    {
+      "name": "John Peponis",
+      "link": "https://arch.gatech.edu/people/john-peponis",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Sonit Bafna",
+      "link": "https://arch.gatech.edu/people/sonit-bafna",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Retrofitting Suburbia",
+      "link": "https://arch.gatech.edu/retrofitting-suburbia-0",
+      "img": "img/labs.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Ellen Dunham-Jones"
+        },
+        {
+          "name": "Michael Gamble"
+        },
+        {
+          "name": "Sabir Khan"
+        },
+        {
+          "name": "Jude LeBlanc"
+        }
+      ]
+    },
+    {
+      "name": "Ellen Dunham-Jones",
+      "link": "https://arch.gatech.edu/people/sonit-bafna",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Michael Gamble",
+      "link": "https://arch.gatech.edu/node/1388",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Sabir Khan",
+      "link": "https://arch.gatech.edu/people/sabir-khan",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Jude LeBlanc",
+      "link": "https://arch.gatech.edu/people/w-jude-leblanc",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Smart Cities",
+      "link": "https://arch.gatech.edu/smart-cities",
+      "img": "img/labs.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Ellen Dunham-Jones"
+        },
+        {
+          "name": "Dennis Shelden"
+        }
+      ]
+    },
+    {
+      "name": "Ellen Dunham-Jones",
+      "link": "https://arch.gatech.edu/people/ellen-dunham-jones",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "Dennis Shelden",
+      "link": "https://arch.gatech.edu/people/jason-brown",
+      "img": "img/people.png",
+      "size": 40000
+    },
+    {
+      "name": "SimTiGrate Lab",
+      "link": "http://www.simtigrate.gatech.edu/",
+      "img": "img/majors.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Craig Zimring"
+        },
+        {
+          "name": "Lisa Lim"
+        }
+      ]
+    },
+    {
+      "name": "IPaT | Institute of People and Technology",
+      "link": "http://ipat.gatech.edu/",
+      "img": "img/majors.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Chuck Eastman"
+        },
+        {
+          "name": "Craig Zimring"
+        }
+      ]
+    },
+    {
+      "name": "Digital Fabrication Lab",
+      "link": "http://www.news.gatech.edu/features/digital-fabrication-lab",
+      "img": "img/majors.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Tristan Al-Haddad"
+        },
+        {
+          "name": "Russell Gentry"
+        },
+        {
+          "name": "Daniel Baerlecken"
+        }
+      ]
+    },
+    {
+      "name": "Shape Computation Lab",
+      "link": "http://shape.gatech.edu/index.html",
+      "img": "img/majors.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Athanassios Economou"
+        }
+      ]
+    },
+    {
+      "name": "Digital Building Lab",
+      "link": "www.dbl.gatech.edu",
+      "img": "img/majors.png",
+      "size": 40000,
+      "children": [
+        {
+          "name": "Dennis Shelden"
+        },
+        {
+          "name": "Chuck Eastman"
+        }
+      ]
+    },
+    {
+      "name": "Institute for Robotics and Intelligent Machines",
+      "link": "http://www.robotics.gatech.edu/",
+      "img": "img/majors.png",
+      "size": 40000
+    },
+    {
+      "name": "Eco Urban Lab",
+      "link": "http://www.ecourbanlab.org",
+      "img": "img/labs.png",
+      "size": 40000
+    }
+  ],
+  "base": {
+    "name": "Research"
+  }
+}

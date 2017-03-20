@@ -1,0 +1,58 @@
+@import url(//fonts.googleapis.com/css?family=Source+Code+Pro:400,600);
+body {font-family: "Source Code Pro", Consolas, monaco, monospace; line-height: 160%; font-size: 16px;  margin: 0; }
+path.link {
+  fill: none;
+  stroke-width: 2px;
+  z-index: 1;
+}
+.node:not(:hover) .nodetext {
+  display: none;
+}
+h1 { font-size: 36px; margin: 10px 0; text-transform: uppercase; font-weight: normal;}
+h2, h3 { font-size: 18px; margin: 5px 0 ; font-weight: normal;}
+header {padding: 20px; position: absolute; top: 0; left: 0;}
+a:link { color: #EE3124; text-decoration: none;}
+a:visited { color: #EE3124; }
+a:hover { color: #A4CD39; text-decoration: underline;}
+a:active { color: #EE3124; }
+
+g.node {
+  cursor: pointer;
+  z-index: 1;
+}
+g.node circle {
+  fill: grey;
+  stroke: grey;
+  stroke-width: 4px;
+}
+g.node.collapsed circle {
+  stroke: navy;
+}
+g.node.expanded circle {
+  stroke: orange;
+}
+
+g.node:hover image,
+g.node:hover circle {
+  transform: scale(1.5);
+}
+
+.nodetext {
+  background: white;
+  border: 1px solid gray;
+  display: block;
+}
+
+svg.highlight g.node:not(.highlight) {
+  opacity: 0.2;
+}
+
+svg.highlight path.link.highlight {
+  stroke: black !important;
+  stroke-width: 3;
+  z-index: 1000;
+}
+
+svg.highlight g.node.highlight {
+  z-index: 1000;
+}
